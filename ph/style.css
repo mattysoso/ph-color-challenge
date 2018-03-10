@@ -1,0 +1,194 @@
+<style>
+}
+
+body {
+    display: block;
+    margin: 10px;
+
+}
+h1 {
+    display: block;
+    font-size: 2em;
+    margin: 0.5;
+    padding: 10px 10px 10px 10px;
+    -webkit-margin-before: 0.80em;
+    -webkit-margin-after: 0.80em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+    background-color:#e0e0e0;
+    border-radius: 10px;
+}
+
+.fourteen {
+    background-color: #31abed;
+    color: white;
+    border-radius: 5px;
+    display: block;
+    margin: 0.5;
+    padding: 10px 10px 10px 10px;
+    -webkit-margin-before: 4em;
+    -webkit-margin-after: 4em;
+    -webkit-margin-start: 2px;
+    -webkit-margin-end: 2px;
+}
+ .thirteen {
+    background-color: #53b4ed;
+    color: white;
+    display: block;
+    margin: 0;
+    padding: 10px 10px 10px 10px;
+    -webkit-margin-before: 4em;
+    -webkit-margin-after: 4em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end:0px;
+    border-radius: 5px;
+
+}
+	.twelve {
+    background-color: #009fe6;
+    color: white;
+    margin: 0;
+    padding: 10px 10px 10px 10px;
+    -webkit-margin-before: 4em;
+    -webkit-margin-after: 4em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    border-radius: 5px;
+}
+.eleven {
+    background-color: #30aae9;
+    color: white;
+    margin: 0;
+    padding: 10px 10px 10px 10px;
+     -webkit-margin-before: 4em;
+    -webkit-margin-after: 4em;
+    -webkit-margin-start: 2px;
+    -webkit-margin-end: 2px;
+    border-radius: 5px;
+
+}
+.ten {
+    background-color: #55B6ED;
+    color: white;
+    display: block;
+    margin: 0;
+    padding: 10px 10px 10px 10px;
+     -webkit-margin-before: 4em;
+    -webkit-margin-after: 4em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    border-radius: 5px;
+	   }
+	.nine{
+    background-color: #71C1EF;
+    color: white;
+    margin: 0;
+    padding: 10px 10px 10px 10px;
+    display: block;
+   -webkit-margin-before: 4em;
+    -webkit-margin-after: 4em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    border-radius: 5px;
+    }
+.eight {
+    background-color: #8ACBEF;
+    color: white;
+    margin: 0;
+    padding: 10px 10px 10px 10px;
+    -webkit-margin-before: 4em;
+    -webkit-margin-after: 4em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    border-radius: 5px;
+}
+.seven {
+    background-color: #00BA88;
+    color: white;
+    margin: 0;
+    padding: 10px 10px 10px 10px;
+    -webkit-margin-before: 4em;
+    -webkit-margin-after: 4em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    border-radius: 5px;
+}
+.six {
+    background-color: #F5B0CC;
+    color: white;
+    margin: 0;
+    padding: 10px 10px 10px 10px;
+    -webkit-margin-before: 4em;
+    -webkit-margin-after: 4em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    border-radius: 5px;
+}
+.five {
+    background-color: #F26A98;
+    color: white;
+    margin: 0;
+    padding: 10px 10px 10px 10px;
+    -webkit-margin-before: 4em;
+    -webkit-margin-after: 4em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    border-radius: 5px;
+}
+.four {
+    background-color: #F25A8B;
+    color: white;
+    margin: 0;
+    padding: 10px 10px 10px 10px;
+    -webkit-margin-before: 4em;
+    -webkit-margin-after: 4em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    border-radius: 5px;
+}
+.three {
+    background-color: #EE3E7F;
+    color: white;
+    margin: 0;
+    padding: 10px 10px 10px 10px;
+    -webkit-margin-before: 4em;
+    -webkit-margin-after: 4em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    border-radius: 5px;
+}
+.two {
+    background-color: #F36A98;
+    color: white;
+    margin: 0;
+     padding: 10px 10px 10px 10px;
+    -webkit-margin-before: 4em;
+    -webkit-margin-after: 4em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    border-radius: 5px;
+}
+.one {
+    background-color: #F5598D;
+    color: white;
+    margin: 0;
+    padding: 10px 10px 10px 10px;
+    -webkit-margin-before: 4em;
+    -webkit-margin-after: 4em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    border-radius: 5px;
+}
+.zero {
+    background-color: #EE3D7F;
+    color: white;
+    margin: 0;
+    padding: 10px 10px 10px 10px;
+    -webkit-margin-before: 4em;
+    -webkit-margin-after: 4em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    border-radius: 5px;
+}
+</style>
